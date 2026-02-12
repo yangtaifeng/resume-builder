@@ -129,7 +129,7 @@ npm run test
 ## 在线预览
 
 项目已部署到 GitHub Pages：
-https://yangtaifeng.github.io/resume-builder/
+https://bikobiko.github.io/resume-builder/
 
 ## 贡献指南
 
