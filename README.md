@@ -122,7 +122,7 @@ npm run test
 ## 在线预览
 
 项目已部署到 GitHub Pages：
-https://YOUR_USERNAME.github.io/resume-builder/
+https://yangtaifeng.github.io/resume-builder/
 
 ## 贡献指南
 
